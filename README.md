@@ -5,14 +5,15 @@ Run these commands:
 `sudo apt install npm`
 `npm install`
 `node app.js`
-![1 EC2](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/dc78222b-eeef-4f44-b99a-97fa28e79ac5)
-![2 Connect to Console EC2](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/54a4eb8f-594b-4f1f-929a-9443288abdef)
-![3 Jenkins](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/124fb2d2-e41b-41f1-abe4-6574f6664306)
-![4 Containers](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/7c0e7519-7d1e-46eb-94f6-25ad03389a27)
-![5 ToDo App running](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/1c283f0d-f4ab-4b17-a934-b0b0eed633c0)
-![6 OS for docker](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/1b7a5fea-d669-4703-b512-70d3703e4594)
+![1 EC2](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/b4b382d7-749e-4ba2-8170-ca998a940b84)
 
 
+
+![2 Connect to Console EC2](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/9c8f3e56-51d1-42c4-b1d1-95816db566ef)
+![3 Jenkins](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/fb952245-d0ba-40bd-b199-fb70e40a06ee)
+![4 Containers](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/c5d005ef-fcc5-4b38-ae40-0e9595fbee9f)
+![5 ToDo App running](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/aa93a1fe-a5c2-4c7b-9500-ed730e8c1b41)
+![6 OS for docker](https://github.com/ShivanshChopra12/CI-CD---Jenkins-integration--ToDo/assets/102555294/96a8db60-79d2-475d-b160-f32eb177c633)
 
 Revision - steps:
 1)	Create AWS EC2 instance
